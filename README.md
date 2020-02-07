@@ -1,4 +1,4 @@
-# serah#!/usr/bin/python2
+#!/usr/bin/python2
 # coding=utf-8
 
 
